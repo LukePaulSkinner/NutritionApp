@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Nutrition app</string>
+    <string name="view_account_string">View account@String</string>
+    <string name="view_account">View Account</string>
+</resources>
