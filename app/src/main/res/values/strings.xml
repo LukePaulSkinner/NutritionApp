@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Nutrition Helper</string>
+    <string name="textTitle">title</string>
+    <string name="title1">Welcome to Nutrition Helper</string>
+    <string name="title2">Log your meals</string>
+    <string name="title3">Unlock achievements</string>
+    <string name="title4">Just one thing</string>
+    <string name="description">Start living a healthier life today! </string>
+    <string name="description2">Log both your diet as well as your daily exercise! </string>
+    <string name="description3">Gain bragging rights as you go. </string>
+    <string name="description4">Before you can get started we just need some information about yourself in order for some of our features to work. </string>
+
+    <string name="next">Next</string>
+    <string name="back">Back</string>
+    <string name="done">Done</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
