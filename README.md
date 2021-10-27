@@ -12,6 +12,7 @@ data such as: the type of exercise, calories burned and the length of time the e
 performed for.
 
 Custom Meal
+<img src="https://imgur.com/6y7cdsa" img align="right" width="250" />
 A custom meal is used to store information about meals the user has created. This information 
 consists of a list of FoodItems and a name.
 
